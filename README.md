@@ -1,6 +1,9 @@
 # Selection_sort_visualization
 선택 정렬(Selection sort) 알고리즘 시각화
 
+**구현 영상**
+
+[![YoutubeVid](http://img.youtube.com/vi/p4CVSFQ9u48/0.jpg)](http://www.youtube.com/watch?v=p4CVSFQ9u48)
 
 ## 0. 그대로 실행 시 주의사항
 그대로 실행 시, 하위 디렉토리 ```\frames``` 를 생성하고 학습 내용에 대해 모두 저장하도록 되어 있습니다.
