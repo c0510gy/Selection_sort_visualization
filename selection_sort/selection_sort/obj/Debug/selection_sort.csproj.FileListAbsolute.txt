@@ -1,0 +1,7 @@
+D:\Projects\sorting_algorithm\selection_sort\selection_sort\bin\Debug\selection_sort.exe.config
+D:\Projects\sorting_algorithm\selection_sort\selection_sort\bin\Debug\selection_sort.exe
+D:\Projects\sorting_algorithm\selection_sort\selection_sort\bin\Debug\selection_sort.pdb
+D:\Projects\sorting_algorithm\selection_sort\selection_sort\obj\Debug\selection_sort.csprojResolveAssemblyReference.cache
+D:\Projects\sorting_algorithm\selection_sort\selection_sort\obj\Debug\selection_sort.csproj.CoreCompileInputs.cache
+D:\Projects\sorting_algorithm\selection_sort\selection_sort\obj\Debug\selection_sort.exe
+D:\Projects\sorting_algorithm\selection_sort\selection_sort\obj\Debug\selection_sort.pdb
